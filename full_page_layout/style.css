@@ -1,0 +1,154 @@
+:root {
+    --main-white: #FFF;
+    --main-red: #FF8080;
+    --main-blue: #40A2E3;
+    --main-orange: #FFCF96;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--main-blue);
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+#navbar {
+    height: 70px;
+    border-radius: 3px;
+    background-color: var(--main-red);
+}
+
+#navbar ul {
+    display: flex;
+    margin: 0;
+    height: 100%;
+    justify-content: end;
+}
+
+#navbar li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100%;
+    font-size: 24px;
+    color: var(--main-white);
+    transition: .4s;
+}
+
+ul:last-child {
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--main-white);
+}
+
+#navbar li:hover {
+    transform: scale(1.05);
+    background-color: var(--main-blue);
+}
+
+
+#welcome-section,
+#projects-section,
+#contact-section {
+    padding: 5rem 0;
+    text-align: center;
+}
+
+#welcome-section .name {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 30%;
+    font-size: 40px;
+    color: var(--main-white);
+}
+
+
+#welcome-section .title {
+    font-size: 30px;
+    font-weight: 100;
+    color: var(--main-orange);
+    transition: .3s;
+}
+
+
+#welcome-section .title:hover {
+    transform: scale(1.1);
+    text-shadow: var(--main-white) 1px 0 10px;
+}
+
+
+#projects-section h2 {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin: 5px auto;
+    width: 80%;
+    color: var(--main-white);
+    font-size: 36px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--main-white);
+}
+
+#projects-section .wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 5px;
+}
+
+
+.wrap img {
+    width: 350px;
+    border-radius: 5px;
+    transition: .4s;
+}
+
+.wrap img:hover {
+    transform: scale(1.05);
+}
+
+#contact-section h3 {
+    font-size: 36px;
+    color: var(--main-white);
+}
+
+#contact-section em {
+    font-size: 20px;
+    color: var(--main-orange);
+}
+
+.btn contact-details {
+    padding: 0 5px;
+}
+
+footer {
+    text-align: center;
+    color: var(--main-white);
+}
+
+@media screen and (min-width: 768px) {
+    #welcome-section,
+    #projects-section,
+    #contact-section {
+        height: 100vh;
+    }
+
+}
