@@ -1,18 +1,18 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/vlJXFE8Y)
 # m3-week-02
 
-| #  | 學習項目                                  | 作品連結         |
+| #  | Learning Item                                  | Project Link        |
 |----|-----------------------------------------|--------------|
-| 01 | 透過建構貓咪照片 APP 學習 HTML            |  |
-| 02 | 透過製作一個咖啡目錄，來學習 CSS           |  |
-| 03 | 透過一個註冊表單，學習 HTML Form (表單)    |  |
-| 04 | 透過建立一幅 Rothko 畫作學習 CSS 盒子模型 |  |
-| 05 | 透過建立一個相片藝廊學習 CSS Flexbox      |  |
-| 06 | 通過構建摩天輪來學習 CSS 動畫             |  |
-| 07 | 透過建立一隻企鵝學習 CSS 變形效果         |  |
-| 08 | 透過畫一隻貓學習進階 CSS                  |  |
-| 09 | 製作一個致敬頁面 Tribute Page             |  |
-| 10 | 製作一個個人作品集網站 Portfolio          |  |
-| 11 | 導覽列切板                                |  |
-| 12 | 頁尾切板                                  |  |
-| 13 | RWD 網頁切板                              |  |
+| 01 | Learning HTML through building a cat photo app            | [Link](https://codasobi.github.io/m3-week-02-codasobi/cat_photo_app/) |
+| 02 | Learning CSS by creating a coffee menu          | [Link](https://codasobi.github.io/m3-week-02-codasobi/cafe_menu/) |
+| 03 | Learning HTML Form (Form) through creating a registration form    |  [Link](https://codasobi.github.io/m3-week-02-codasobi/registration_form/)|
+| 04 | Learning CSS box model by creating a Rothko-style painting | [Link](https://codasobi.github.io/m3-week-02-codasobi/rothko_painting/) |
+| 05 | Learning CSS Flexbox by creating a photo gallery     | [Link](https://codasobi.github.io/m3-week-02-codasobi/photo_gallery/) |
+| 06 | Learning CSS animation by building a Ferris wheel            | [Link](https://codasobi.github.io/m3-week-02-codasobi/ferris_wheel/) |
+| 07 | Learning CSS transformation effects by creating a penguin         |  [Link](https://codasobi.github.io/m3-week-02-codasobi/penguin/)|
+| 08 | Learning advanced CSS by drawing a cat                | [Link](https://codasobi.github.io/m3-week-02-codasobi/cat_painting/) |
+| 09 | Creating a Tribute Page             | [Link](https://codasobi.github.io/m3-week-02-codasobi/tribute_page/) |
+| 10 | Creating a personal portfolio website          | [Link](https://codasobi.github.io/m3-week-02-codasobi/full_page_layout/) |
+| 11 | Navigation bar template                                |[Link](https://codasobi.github.io/m3-week-02-codasobi/navbar/)  |
+| 12 | Footer template                                  | [Link](https://codasobi.github.io/m3-week-02-codasobi/footer/) |
+| 13 | Responsive web design template                              | [Link](https://codasobi.github.io/m3-week-02-codasobi/rwd/) |
